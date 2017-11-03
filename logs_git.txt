@@ -1,0 +1,17 @@
+commit c083c8bdc0dc38a1e95968b21001446ffb418c68
+Author: albertbarragan <albertichnein@gmail.com>
+Date:   Thu Nov 2 10:48:22 2017 +0100
+
+    added gitignore
+
+commit e33a72f19e810662d1e96da5cee6b32f566ccda8
+Author: albertbarragan <albertichnein@gmail.com>
+Date:   Thu Nov 2 00:20:35 2017 +0100
+
+    added two files
+
+commit a6a46325e24c89034b22becfbcc1d953eca846f3
+Author: albertbarragan <albertichnein@gmail.com>
+Date:   Thu Nov 2 00:05:29 2017 +0100
+
+    added readme.txt
