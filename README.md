@@ -1,28 +1,24 @@
-# This is a large heading
+# Albert Barragan Laso
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unkwon*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in **Cerdanyola del Vallès**, Barcelona, Spain.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
+- *Tuareg* by Alberto Vázquez-Figueroa
+- *A Clockwork Orange* by Anthony Burgess
+- *The Catcher in the rye* by J.D.Salinger
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I would love to eat:
 
-Here is how you make [a link](https://wikipedia.org/).
+1. Pizza
+2. Pasta
+3. Tuna entrecote
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+Here is [my Linkedin adress](https://www.linkedin.com/in/albertbarraganlaso).
